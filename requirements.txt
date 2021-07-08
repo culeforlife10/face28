@@ -27,6 +27,5 @@ gunicorn
 opencv-python
 matplotlib
 os-sys
-Werkzeug
 tensorflow
 keras
