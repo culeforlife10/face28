@@ -26,6 +26,5 @@ wincertstore==0.2
 gunicorn
 opencv-python
 matplotlib
-os-sys
 tensorflow
 keras
